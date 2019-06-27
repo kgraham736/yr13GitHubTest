@@ -21,5 +21,10 @@ namespace yr13GitHubTest
         {
             MessageBox.Show("Thanks Daniel");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("kofsad");
+        }
     }
 }
