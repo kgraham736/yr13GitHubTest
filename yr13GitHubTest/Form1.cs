@@ -19,12 +19,17 @@ namespace yr13GitHubTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Thanks Daniel");
+            MessageBox.Show("message box 1");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("kofsad");
+            MessageBox.Show("message box 2");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("message box 3");
         }
     }
 }
